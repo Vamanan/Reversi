@@ -1,0 +1,9 @@
+﻿Build started 20-11-2014 00:55:32.
+     1>Project "C:\Stuff\USC\CSCI561\reversi\reversi\reversi.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         reversi.vcxproj -> C:\Stuff\USC\CSCI561\reversi\Debug\reversi.exe
+     1>Done Building Project "C:\Stuff\USC\CSCI561\reversi\reversi\reversi.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11
